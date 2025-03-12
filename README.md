@@ -7,9 +7,7 @@ This repository contains Jupyter notebooks for collecting, cleaning, preprocessi
 
 ```
 📦 Project Root  
-│── 📂 Data/                   # Contains raw and processed datasets  
-│   ├── dataset.txt            # Uploaded dataset from the fanpage  
-│  
+│── 📂 Data/                   # Contains raw and processed datasets  │  
 │── 📜 Crawl_data.ipynb        # Collects data from the Facebook fanpage  
 │── 📜 Clean_data.ipynb        # Cleans and formats the collected data  
 │── 📜 Preprocess.ipynb        # Prepares data for analysis (tokenization, feature extraction, etc.)  
